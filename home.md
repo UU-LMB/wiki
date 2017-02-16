@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: Laboratory of Molecular Biophysics -->
+<!-- SUBTITLE: A wiki for data analysis and software -->
 
 # Header
